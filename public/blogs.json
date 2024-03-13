@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/1.jpg",
+      "title": "The Enigmatic Adventure",
+      "author": "Jane Doe",
+      "author_img": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/boy1.png",
+      "posted_date": "2024-03-13",
+      "reading_time": 45,
+      "hashtag": "#Adventure #Mystery #Fiction"
+    },
+    {
+      "id": 2,
+      "cover": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/2.png",
+      "title": "Echoes of Eternity",
+      "author": "John Smith",
+      "author_img": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/boy2.png",
+      "posted_date": "2024-03-12",
+      "reading_time": 60,
+      "hashtag": "#Fantasy #Magic #Adventure"
+    },
+    {
+      "id": 3,
+      "cover": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/3.png",
+      "title": "The Midnight Sonata",
+      "author": "Emily Johnson",
+      "author_img": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/girl1.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 30,
+      "hashtag": "#Romance #Music #Drama"
+    },
+    {
+      "id": 4,
+      "cover": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/4.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Michael Brown",
+      "author_img": "https://raw.githubusercontent.com/ProgrammingHero1/knowledge-cafe/546e181166f4ee2ef4486cb0bec8d50a7b7c98e4/images/girl2.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 50,
+      "hashtag": "#Thriller #Suspense #Mystery"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/dLTnfyQ/composition-with-html-system-websites.jpg",
+      "title": "The Secret Garden",
+      "author": "Sarah Lee",
+      "author_img": "https://www.clipartmax.com/middle/m2H7H7Z5N4K9d3d3_school-boy-school-boy-school-boy1-school-bay-png-filie/",
+      "posted_date": "2024-03-09",
+      "reading_time": 40,
+      "hashtag": "#Childrens #Adventure #Nature"
+    }
+  ]
+  
